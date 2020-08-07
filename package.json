@@ -17,6 +17,7 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "apollo-server-azure-functions": "^2.16.1"
+    "apollo-server-azure-functions": "^2.16.1",
+    "axios": "^0.19.2"
   }
 }
