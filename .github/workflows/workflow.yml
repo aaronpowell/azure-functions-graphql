@@ -3,7 +3,7 @@ name: Deploy Node.js project to Azure Function App
 on:
   [push]
 
-  env:
+env:
   AZURE_FUNCTIONAPP_NAME: graphql-on-azure-functions
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'
   NODE_VERSION: '12.x'
