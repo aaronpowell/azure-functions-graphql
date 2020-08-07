@@ -1,0 +1,1 @@
+This is a sample repository on how to create a GraphQL server running on Azure Functions.
